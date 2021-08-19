@@ -12,8 +12,6 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
   - [Built with](#built-with)
 - [Author](#author)
 
-  
-
 ## Overview
 
 ### The challenge
@@ -25,12 +23,19 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+##Desktop
+
+![image](https://user-images.githubusercontent.com/80006401/130134582-14b9817c-deb3-4ab4-9da6-a6a806235753.png)
+![image](https://user-images.githubusercontent.com/80006401/130134610-92c7510c-3f08-4b47-8736-2d6ee25eccc1.png)
+![image](https://user-images.githubusercontent.com/80006401/130134642-f6c4c73f-5777-4abe-bede-f6a1195fffad.png)
+![image](https://user-images.githubusercontent.com/80006401/130134673-19c2ce10-d441-49db-824b-56e8f0d45fbe.png)
+![image](https://user-images.githubusercontent.com/80006401/130134697-5ccd45d4-4393-4129-a5c5-e0592372bf1b.png)
+![image](https://user-images.githubusercontent.com/80006401/130134731-56ef0447-b19a-405b-8a88-41c08fb8e070.png)
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Check it out](https://isadora96.github.io/sunnyside-landing-page/)
 
 ## My process
 
