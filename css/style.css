@@ -238,7 +238,7 @@ header {
     text-align: center;
     padding: 1em .5em;
     flex-wrap: wrap;
-    flex-direction: column;
+    flex-direction: column;    
 }
 
 .logo {
