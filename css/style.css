@@ -27,6 +27,7 @@ html, body {
     font-family: var(--font-fraunces);
     font-size: 1.125rem;
     overflow-x: hidden;
+
 }
 
 img {
@@ -194,6 +195,7 @@ nav a:focus {
 	cursor: pointer;
     position: absolute;
     z-index: 1000;
+
 }
 
 .nav__list {
@@ -213,6 +215,7 @@ nav a:focus {
 
 .nav-open .nav-toggle {
     position: fixed;
+    
 }
 
 /* ================
@@ -238,7 +241,8 @@ header {
     text-align: center;
     padding: 1em .5em;
     flex-wrap: wrap;
-    flex-direction: column;    
+    flex-direction: column;   
+     
 }
 
 .logo {

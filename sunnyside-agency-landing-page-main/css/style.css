@@ -148,7 +148,7 @@ p.position-job {
 nav {
     position: fixed;
     background: var(--white-neutral);
-    top: 20%;
+    top: 15%;
     bottom: 25%;
     left: 5%;
     right: 5%;
@@ -236,14 +236,15 @@ header {
     height: 650px;
     background-image: url('../images/mobile/image-header.jpg');
     text-align: center;
-    padding: 1em .5em;
     flex-wrap: wrap;
     flex-direction: column;
 }
 
 .logo {
     justify-content: space-between;
-    padding: .5em .4em;
+    padding: 1em;
+    position: fixed;
+    background-color: rgb(74, 189, 255);
 }
 
 .graphic, .photography {
@@ -398,6 +399,10 @@ footer h3 {
         border-radius: 20px;
         text-transform: uppercase;
         font-size: .8rem;
+    }
+
+    .logo {
+        position: relative;
     }
 
     header {
