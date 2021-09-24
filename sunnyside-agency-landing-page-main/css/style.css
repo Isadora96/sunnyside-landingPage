@@ -242,7 +242,7 @@ header {
 
 .logo {
     justify-content: space-between;
-    padding: 1em;
+    padding: 1.3em;
     position: fixed;
     background-color: rgb(74, 189, 255);
 }
@@ -407,7 +407,6 @@ footer h3 {
 
     header {
         height: 800px;
-        padding: 1em 2em;
     }
 
     .arrow-header,
