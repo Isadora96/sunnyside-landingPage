@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Check it out](https://isadora96.github.io/sunnyside-landing-page/)
+- Live Site URL: [Check it out](https://isadora96.github.io/sunnyside-landingPage/)
 
 ## My process
 
